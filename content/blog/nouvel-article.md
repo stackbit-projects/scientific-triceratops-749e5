@@ -15,6 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: data/team/gustav-purpleson.json
 ---
 ## Lorem ipsum
 
