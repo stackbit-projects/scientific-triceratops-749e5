@@ -327,7 +327,8 @@ sections:
     background_color: secondary
 seo:
   title: Mon super site JAMStack Style
-  description: 'Plus rapide tu meures ! '
+  description: |
+    Plus rapide tu meures ! 
   extra:
     - name: 'og:type'
       value: website
